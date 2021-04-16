@@ -800,72 +800,72 @@ body .menu .menu_img .menu_img-list .row .menu_img-list--img:hover {
     color: var(--color-gray-700);
 }
 .menu_cafe .row .menu_cafe-img1{
-    background:url("/img/sản\ phẩm/cafebanh.jpg") no-repeat;
+    background:url("../img/sản\ phẩm/cafebanh.jpg") no-repeat;
     background-size: cover;
     background-position: 54%;
 }
 .menu_cafe .row .menu_cafe-img2{
-    background:url("/img/sản\ phẩm/cafephin.jpg") no-repeat;
+    background:url("../img/sản\ phẩm/cafephin.jpg") no-repeat;
     background-size: cover;
     background-position: 67%;
 }
 .menu_cafe .row .menu_cafe-img3{
-    background:url("/img/sản\ phẩm/cafesuada.jpg") no-repeat;
+    background:url("../img/sản\ phẩm/cafesuada.jpg") no-repeat;
     background-size: cover;
     background-position: 100%;
 }
 .menu_cafe .row .menu_cafe-img4{
-    background:url("/img/sản\ phẩm/cafe.jpg") no-repeat;
+    background:url("../img/sản\ phẩm/cafe.jpg") no-repeat;
     background-size: cover;
     background-position: 85%;
 }
 .menu_cafe .row .menu_cafe-img5{
-    background:url("/img/sản\ phẩm/machiato.jpg") no-repeat;
+    background:url("../img/sản\ phẩm/machiato.jpg") no-repeat;
     background-size: cover;
     background-position: 40%;
 }
 .menu_trachanh .row .menu_trachanh-img1{
-    background:url("/img/sản\ phẩm/sanpham2.jpg") no-repeat;
+    background:url("../img/sản\ phẩm/sanpham2.jpg") no-repeat;
     background-size: cover;
     background-position: 54%;
 }
 .menu_trachanh .row .menu_trachanh-img2{
-    background:url("/img/sản\ phẩm/sanpham3.jpg") no-repeat;
+    background:url("../img/sản\ phẩm/sanpham3.jpg") no-repeat;
     background-size: cover;
     background-position: 30%;
 }
 .menu_trachanh .row .menu_trachanh-img3{
-    background:url("/img/sản\ phẩm/trachanh.jpg") no-repeat;
+    background:url(."/img/sản\ phẩm/trachanh.jpg") no-repeat;
     background-size: cover;
     background-position: 11%;
 }
 .menu_trachanh .row .menu_trachanh-img4{
-    background:url("/img/sản\ phẩm/sanpham1.jpg") no-repeat;
+    background:url("../img/sản\ phẩm/sanpham1.jpg") no-repeat;
     background-size: cover;
     background-position: 85%;
 }
 .menu_doan .row .menu_doan-img1{
-    background:url("/img/sản\ phẩm/thitbokho.jpg") no-repeat;
+    background:url("../img/sản\ phẩm/thitbokho.jpg") no-repeat;
     background-size: cover;
     background-position: 54%;
 }
 .menu_doan .row .menu_doan-img2{
-    background:url("/img/sản\ phẩm/thitgakho.jpg") no-repeat;
+    background:url("../img/sản\ phẩm/thitgakho.jpg") no-repeat;
     background-size: cover;
     background-position: 67%;
 }
 .menu_sinhto .row .menu_sinhto-img1{
-    background:url("/img/sản\ phẩm/sinhtoxoai.jpg") no-repeat;
+    background:url("../img/sản\ phẩm/sinhtoxoai.jpg") no-repeat;
     background-size: cover;
     background-position: 70%;
 }
 .menu_sinhto .row .menu_sinhto-img2{
-    background:url("/img/sản\ phẩm/sinhtoduahau.jpg") no-repeat;
+    background:url("../img/sản\ phẩm/sinhtoduahau.jpg") no-repeat;
     background-size: cover;
     background-position: 90%;
 }
 .menu_sinhto .row .menu_sinhto-img3{
-    background:url("/img/sản\ phẩm/trachanh.jpg") no-repeat;
+    background:url("../img/sản\ phẩm/trachanh.jpg") no-repeat;
     background-size: cover;
     background-position: 11%;
 }
@@ -1020,7 +1020,7 @@ a{
     float: right;
     height:300px;
     width:500px;
-   background: url("/img/view/view1.jpg") no-repeat;
+   background: url("../img/view/view1.jpg") no-repeat;
    background-size: cover;
    margin-bottom: 5px;
 }
@@ -1028,14 +1028,14 @@ a{
     float: right;
     height:420px;
     width:320px;
-   background: url("/img/view/view8.jpg") no-repeat;
+   background: url("../img/view/view8.jpg") no-repeat;
    background-size: cover;
 }
 .view_img3{
     float: left;
     height:250px;
     width:270px;
-   background: url("/img/view/view7.jpg") no-repeat;
+   background: url("../img/view/view7.jpg") no-repeat;
    background-size: cover;
    margin-bottom: 5px;
 }
@@ -1043,7 +1043,7 @@ a{
     float: left;
     height:450px;
     width:350px;
-   background: url("/img/view/view9.jpg") no-repeat;
+   background: url("../img/view/view9.jpg") no-repeat;
    background-size: cover;
 }
 
