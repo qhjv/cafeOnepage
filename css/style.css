@@ -835,7 +835,7 @@ body .menu .menu_img .menu_img-list .row .menu_img-list--img:hover {
     background-position: 30%;
 }
 .menu_trachanh .row .menu_trachanh-img3{
-    background:url(."/img/sản\ phẩm/trachanh.jpg") no-repeat;
+    background:url(.."/img/sản\ phẩm/trachanh.jpg") no-repeat;
     background-size: cover;
     background-position: 11%;
 }
